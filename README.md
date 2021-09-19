@@ -42,13 +42,13 @@ Then open the files in order and run each cell of the notebooks.
 
 <h3>Team Members:</h3>
 
-Sneha Sable:Github(https://github.com/Snehasable23) LinkedIn(http://www.linkedin.com/in/snehasable)
+Sneha Sable:[Github](https://github.com/Snehasable23) [LinkedIn](http://www.linkedin.com/in/snehasable)
 
-Shravani Dhuri:Github(https://github.com/Shravani01007) LinkedIn(www.linkedin.com/in/shravanidhuri)
+Shravani Dhuri:[Github](https://github.com/Shravani01007) [LinkedIn](www.linkedin.com/in/shravanidhuri)
 
-Hrutik Naik:Github(https://github.com/hrutiknaik11) LinkedIn(https://www.linkedin.com/in/hrutik-naik-b409551a1)
+Hrutik Naik:[Github](https://github.com/hrutiknaik11) [LinkedIn](https://www.linkedin.com/in/hrutik-naik-b409551a1)
 
-Shrumi Dedhia:Github(https://github.com/shrumidedhia03) LinkedIn(https://www.linkedin.com/in/shrumi-dedhia-17b038203/)
+Shrumi Dedhia:[Github](https://github.com/shrumidedhia03) [LinkedIn](https://www.linkedin.com/in/shrumi-dedhia-17b038203/)
 
-Vikram Rao:Github(https://github.com/Vik13Rao) LinkedIn(http://www.linkedin.com/in/vikram-rao13)
+Vikram Rao:[Github](https://github.com/Vik13Rao) [LinkedIn](http://www.linkedin.com/in/vikram-rao13)
 

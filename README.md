@@ -18,7 +18,24 @@ The jupyter notebooks are listed below:
 
 <h2>Conclusion</h2>
 
-In conclusion, we predicted the weekly sales using different algorithms which can be used by Walmart to forecast its future sales. They need to focus on the inventory planning of key departments like 38,92 and 95. They need to overhaul the Markdowns that are given currently as they are not having the intended impact on sales. They need to focus on the year-end inventory as week 51 and 52 play a crucial part in predicting sales.
+In conclusion, we predicted the weekly sales using different algorithms which can be used by Walmart to forecast its future sales. This project dealt with the 
+implementation of four algorithms namely, Linear Regression,KNN Regressor, Decision Tree Regressor, Random Forest Regressor on the Walmart dataset and a comparative analysis was carried out to determine the best algorithm. Decision Tree Regressor showed very good accuracy for the best implementations. These algorithms could possibly produce
+even better results if they are provided with better hardware electronics like Graphics Processing Units (GPUs), and their use would be beneficial in providing valuable insight,thus leading to better decision-making.
+
+## Requirements
+Python 3.6 or higher
+
+## Installation
+To use in a python3 virtual environment, create the environment, activate it and run:
+
+    $ pip3 install -r requirements.txt
+
+## Usage
+To run the jupyter-notebooks open the terminal and run:
+
+    $ jupyter-notebooks
+
+Then open the files in order and run each cell of the notebooks.
 
 <h3>Team Members:</h3>
 

@@ -13,8 +13,11 @@ Different Algorithms used for prediction are as follows:
 4)	Random Forest Regressor
 
 The jupyter notebooks are listed below:
-1)	
-2)	
+1)	<a href="https://github.com/Shravani01007/Walmart-Sales-Prediction-For-Future-Campaigns/blob/main/Data%20Exploration.ipynb" target="_blank">Data Exploration</a>
+2)	<a href="https://github.com/Shravani01007/Walmart-Sales-Prediction-For-Future-Campaigns/blob/main/Cleaning%20Dataset.ipynb" target="_blank">Data Cleaning</a>
+3)	<a href="https://github.com/Shravani01007/Walmart-Sales-Prediction-For-Future-Campaigns/blob/main/Prediction_Model.ipynb" target="_blank">Prediction Model</a>
+
+
 
 <h2>Conclusion</h2>
 

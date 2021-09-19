@@ -4,7 +4,7 @@ Walmart is one of the largest retailers in the world and it is very important fo
 
 This project was developed in order to learn how to use different ML algorithms to predict the sales of a Walmart and compare them. For this project, we have used the dataset available from ‘Walmart Store Sales Forecasting’ project that was available on Kaggle. In this dataset, we have weekly sales data for 45 stores and 99 departments for a period of 3 years. In addition, we had store and geography specific information such as store size, unemployment rate, temperature, promotional markdowns etc. Using these factors, we needed to develop a regression model that can forecast the sales and is also computationally efficient and scalable.
 
-The codes are separated in three jupyter notebooks where we first explore the data and decided which characteristics of the dataset will be used for the models. Then, we cleaned the dataset removing the columns with more than 40% of missing values and applied one hot encoding to categorical values. Finally, we built the machine learning algorithms and calculated their accuracy.
+The codes are separated in three jupyter notebooks where we first explore the data and decided which characteristics of the dataset will be used for the models.The three different datasets were were merged in one dataset . Then, we cleaned the dataset removing the columns with more than 40% of missing values and applied one hot encoding to categorical values(initial and cleaned both datasets provided in zip file).Finally, we built the machine learning algorithms and calculated their accuracy.
 
 Different Algorithms used for prediction are as follows:
 1)	Linear Regression
